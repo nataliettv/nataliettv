@@ -10,7 +10,7 @@
 
 ## *˙⋆✮ about me*
 
-*im nat, a computer science student*
+*im nat, a computer science student based in mty, mexico*
 
 💻 interested in artificial intelligence & machine learning engineering
 - *⤷  currently working as a full-stack developer*
