@@ -1,4 +1,4 @@
-<h1 align="center">hiii ฅ^>⩊<^ ฅ </h1>
+<h1 align="center">hiii!! ฅ^>⩊<^ ฅ </h1>
 
 <p align="center">
   <i>“To define is to limit.”</i>
@@ -16,7 +16,7 @@
 - *⤷  currently working as a full-stack developer*
 
 
-<h2 align="center">🌸˚˖⋆ my tech stack</h2>
+<h2 align="center">🌸˚˖⋆ my tech stack </h2>
 
 <p align="center">
   <i>backend</i><br>
