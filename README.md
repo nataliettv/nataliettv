@@ -66,14 +66,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliettv&theme=tokyonight" />
 </p>
 
-## *⏱ coding stats*
+## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+*current stats*
 
 ```text
 💬 Programming Languages: 
@@ -84,7 +84,7 @@ Markdown                 3 mins              █░░░░░░░░░░�
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
-**I Mostly Code in JavaScript** 
+*i mostly code in:* 
 
 ```text
 JavaScript               3 repos             ███████████████░░░░░░░░░░   60.00 % 
