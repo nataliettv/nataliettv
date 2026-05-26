@@ -69,4 +69,71 @@
 ## *⏱ coding stats*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%207%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 364.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29 commits          █████████░░░░░░░░░░░░░░░░   34.12 % 
+🌆 Daytime                47 commits          ██████████████░░░░░░░░░░░   55.29 % 
+🌃 Evening                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   21 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Tuesday                  12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Friday                   30 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 47 mins        ██████████████████░░░░░░░   72.27 % 
+JSON                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████████████░░░░░░░░░░   60.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/nataliettv/nataliettv/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/05/2026 23:23:41 UTC
 <!--END_SECTION:waka-->
