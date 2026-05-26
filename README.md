@@ -65,3 +65,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliettv&theme=tokyonight" />
 </p>
+
+## *⏱ coding stats*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
