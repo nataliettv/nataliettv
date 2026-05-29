@@ -69,7 +69,7 @@
 ## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue?style=flat)
 
@@ -95,5 +95,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 16:55:31 UTC
+ Last Updated on 29/05/2026 20:09:55 UTC
 <!--END_SECTION:waka-->
