@@ -69,7 +69,20 @@
 ## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2010%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 hrs 44 mins      █████████████████████░░░░   84.32 % 
+Text                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -82,5 +95,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:43:25 UTC
+ Last Updated on 29/05/2026 16:55:31 UTC
 <!--END_SECTION:waka-->
