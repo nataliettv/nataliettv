@@ -69,7 +69,7 @@
 ## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue?style=flat)
 
@@ -77,18 +77,24 @@
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 44 mins      █████████████████████░░░░   84.32 % 
-Text                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   10 hrs 49 mins      ████████████████████░░░░░   79.24 % 
+Text                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Go** 
 
 ```text
-JavaScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Go                       2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
+
+
+
+
+ Last Updated on 02/06/2026 22:08:37 UTC
 <!--END_SECTION:waka-->
