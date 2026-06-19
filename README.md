@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+**been spending my time on:** 
 
 ```text
 💬 Programming Languages: 
@@ -81,7 +81,7 @@ SQL                      0 secs              █░░░░░░░░░░�
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
-**I Mostly Code in Go** 
+**i mostly code in:** 
 
 ```text
 Go                       2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
