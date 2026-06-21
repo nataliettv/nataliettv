@@ -69,7 +69,9 @@
 ## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%205%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -91,5 +93,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 19:15:48 UTC
+ Last Updated on 21/06/2026 05:04:17 UTC
 <!--END_SECTION:waka-->
