@@ -69,9 +69,7 @@
 ## *⋆✮ 📊 coding stats*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%205%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -80,12 +78,11 @@
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Python** 
 
 ```text
+Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
 Go                       2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
@@ -93,5 +90,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 21/06/2026 05:04:17 UTC
+ Last Updated on 28/06/2026 04:39:26 UTC
 <!--END_SECTION:waka-->
