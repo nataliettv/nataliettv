@@ -66,18 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliettv&theme=tokyonight" />
 </p>
 
-## *⋆✮ 📊 coding stats*
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
