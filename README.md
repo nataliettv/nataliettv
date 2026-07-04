@@ -49,7 +49,7 @@
 <p align="center">
   <i>tools / tech</i><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,aws" />
   </a>
 </p>
 
