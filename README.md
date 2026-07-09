@@ -13,7 +13,7 @@
 *im nat, a computer science student based in mty, mexico*
 
 💻 interested in artificial intelligence & machine learning engineering
-- *⤷  currently working as a full-stack developer*
+- *⤷  currently working as a software engineer*
 
 
 <h2 align="center">🌸˚˖⋆ my tech stack </h2>
