@@ -12,7 +12,7 @@
 
 *im nat, a computer science student based in mty, mexico*
 
-💻 interested in artificial intelligence & machine learning engineering
+💻 interested in data science, ai & ml
 - *⤷  currently working as a software engineer*
 
 
