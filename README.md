@@ -70,7 +70,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" /> : https://www.linkedin.com/in/natalíe-treviño-69a146378?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+    <img src="https://skillicons.dev/icons?i=linkedin" /> 
+    https://www.linkedin.com/in/natalíe-treviño-69a146378?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   </a>
 </p>
 
