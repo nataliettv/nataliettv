@@ -21,7 +21,7 @@
 <p align="center">
   <i>backend</i><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,nodejs,express,go" />
   </a>
 </p>
 
@@ -66,16 +66,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliettv&theme=tokyonight" />
 </p>
 
-**I Mostly Code in Python** 
+## *⤷ ⋆ contact me ˎˊ˗*
 
-```text
-Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-Go                       2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" /> : https://www.linkedin.com/in/natalíe-treviño-69a146378?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+  </a>
+</p>
 
 
  Last Updated on 28/06/2026 04:39:26 UTC
