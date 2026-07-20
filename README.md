@@ -73,7 +73,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
-
-
- Last Updated on 28/06/2026 04:39:26 UTC
-<!--END_SECTION:waka-->
