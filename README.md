@@ -61,11 +61,6 @@
   </i>
 </p>
 
-## *github stats*
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliettv&theme=tokyonight" />
-</p>
-
 ## *⤷ ⋆ contact me ˎˊ˗*
 
 <p align="center">
