@@ -10,10 +10,10 @@
 
 ## *˙⋆✮ about me*
 
-*im nat, a computer science student based in mty, mexico*
+*im natalie, a computer science student based in mty, mexico*
 
 💻 interested in data science, ai & ml
-- *⤷  currently working as a software engineer*
+- *⤷  im currently working as a software engineer*
 
 
 <h2 align="center">🌸˚˖⋆ my tech stack </h2>
