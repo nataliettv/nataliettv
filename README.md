@@ -35,7 +35,7 @@
 <p align="center">
   <i>databases</i><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgre" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
