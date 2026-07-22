@@ -42,7 +42,7 @@
 <p align="center">
   <i>ai / ml</i><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,python,sklearn,osmnx" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,python,sklearn" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 ## *⤷ ⋆ contact me ˎˊ˗*
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="linkedin.com/in/nataliettv">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
