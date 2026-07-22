@@ -64,7 +64,7 @@
 ## *⤷ ⋆ contact me ˎˊ˗*
 
 <p align="center">
-  <a href="linkedin.com/in/nataliettv">
+  <a href="https://www.linkedin.com/in/nataliettv">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
