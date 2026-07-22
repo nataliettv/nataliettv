@@ -42,7 +42,7 @@
 <p align="center">
   <i>ai / ml</i><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,python,sklearn" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,python,sklearn,osmnx" />
   </a>
 </p>
 
